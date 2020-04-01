@@ -21,4 +21,6 @@ if(skeleton || skin = 'true'){
   console.log(time);
 };
 
+I need to work on my colors and typography
+
 Practice makes perfect
